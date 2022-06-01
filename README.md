@@ -1,4 +1,6 @@
 # LiveryChanger
+
+**THIS PROJECT IS NOT BEING UPDATED**
 Adds new liveries to GeoFs aircraft <br>
 
 <br>
